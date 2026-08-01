@@ -1,1 +1,2 @@
-# Bascis-Asp.Net-Projeleri Vusual Studio Code 2022 ile yapılmış
+# Bascis-Asp.Net MVC CORE,C#, Vusual Studio Code 2022 ile yapılmış
+ 
